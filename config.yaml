@@ -31,7 +31,7 @@ monitors:
 
   - id: prd-1
     name: Production 1
-    description: 'Production 1 Health'
+    description: 'Non Docker - Production 1 Health'
     url: 'https://prd-1.eoatech.com'
     method: GET
     expectStatus: 200
