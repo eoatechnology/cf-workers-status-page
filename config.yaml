@@ -37,3 +37,9 @@ monitors:
     url: 'https://blog.cloudflare.com/'
     method: GET
     expectStatus: 200
+
+  - id: docker-1
+    name: Docker 1
+    url: 'https://dc-1.eoatech.com'
+    method: GET
+    expectStatus: 200
