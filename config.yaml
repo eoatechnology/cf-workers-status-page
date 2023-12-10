@@ -28,3 +28,10 @@ monitors:
     url: 'https://dc-2.eoatech.com'
     method: GET
     expectStatus: 200
+
+  - id: prd-1
+    name: Production 1
+    description: 'Production 1 Health'
+    url: 'https://prd-1.eoatech.com'
+    method: GET
+    expectStatus: 200
