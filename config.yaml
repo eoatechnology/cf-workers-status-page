@@ -39,6 +39,6 @@ monitors:
   - id: eoagold-alibaba-cloud
     name: EOA Gold Alibaba Cloud
     description: 'EOA Gold Alibaba Cloud'
-    url: 'https://ping.eoagold.id'
+    url: 'http://ping.eoagold.id'
     method: GET
     expectStatus: 200
