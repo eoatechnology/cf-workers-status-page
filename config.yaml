@@ -35,3 +35,10 @@ monitors:
     url: 'https://prd-1.eoatech.com'
     method: GET
     expectStatus: 200
+
+  - id: eoagold-alibaba-cloud
+    name: EOA Gold Alibaba Cloud
+    description: 'EOA Gold Alibaba Cloud'
+    url: 'https://ping.eoagold.id'
+    method: GET
+    expectStatus: 200
